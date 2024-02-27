@@ -2,6 +2,8 @@
 
 With the Screen Capture and Analysis project, users can easily capture and examine on-screen content, making it a valuable tool for anyone working with applications. Instead of manually summarizing their screen's contents, users can effortlessly capture their screen and receive insightful analysis of the displayed data. This intuitive solution enhances productivity, especially for troubleshooting, documentation, or general comprehension of the information on the screen.
 
+![Image Alt Text](./src/assets/Image.png)
+
 ### Add Open AI API key before running the application.
 
 1.  Get your Open AI API Key from https://platform.openai.com/api-keys.
